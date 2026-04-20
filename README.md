@@ -1,4 +1,4 @@
-## Hong Kong Local Food Production & Climate Analysis (2007-2024)
+# Hong Kong Local Food Production & Climate Analysis (2007-2024)
 # Project Overview
 This study examines relationships between atmospheric pressure, relative humidity, rainfall, and annual yields of vegetables, livestock, seafood, and poultry in Hong Kong. The goal is to identify which food sectors are most sensitive to weather patterns and provide data-driven insights for local food security planning.
 
