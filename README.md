@@ -25,7 +25,7 @@ Data Model: Star schema (Fact: FoodProduction; Dims: YearDim, FoodCategory)
 
 DAX Measures: Total Production, YoY Growth %, Production Volatility, High Humidity Year Flag
 
-# Visualizations: Dual-axis line charts, scatter plot matrix, heatmap, ribbon chart
+Visualizations: Dual-axis line charts, scatter plot matrix, heatmap, ribbon chart
 
 # Limitations
 Granularity mismatch (annual production vs. daily climate)
